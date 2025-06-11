@@ -1,0 +1,36 @@
+h2{
+    text-align: center;
+}
+#registration{
+align-items: center;
+background-color: rgb(255, 170, 255);
+height: 930px;
+width: 300px;
+ margin-left: 40%;
+ margin-top: 70px;
+padding-left: 10px;
+border: 2px;
+border-color: black;
+}
+.container{
+    text-align:center;
+  
+}
+pre{
+text-align: left;
+margin-left: 10px;
+font-size: 17px;
+}
+button{
+    align-items: center;
+    background-color: rgb(10, 169, 10);
+    font-size: 20px;
+    color: white;
+    border-radius: 5px;
+    margin-left: 110px;
+}
+
+.required{
+    color: red;
+    font-size: 17px;
+}
